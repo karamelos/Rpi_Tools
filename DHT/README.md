@@ -2,6 +2,7 @@ Rpi DHT
 ===================
 > **Nécessite:**
 > Python3
+
 > Adafruit_DHT
 
 Schéma 
